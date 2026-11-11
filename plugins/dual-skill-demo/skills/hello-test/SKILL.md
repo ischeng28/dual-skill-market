@@ -12,6 +12,6 @@ description: 用于测试跨平台插件和 hello-test Skill 是否已加载。�
 [hello-test]
 插件：dual-skill-demo
 消息：你好，Claude Code 和 Codex！
-校验码：HELLO-OK111111111
+校验码：HELLO-OK11111111122222222222
 
 这个技能不需要访问网络、运行命令或读取文件。

@@ -26,6 +26,6 @@ description: 用于测试跨平台插件的参数处理和格式化输出。用�
 [format-test]
 原文：hello Codex 123
 大写：HELLO CODEX 123
-校验码：FORMAT-OK
+校验码：FORMAT-OK1111111111111
 
 这个技能不需要访问网络、运行命令或读取文件。

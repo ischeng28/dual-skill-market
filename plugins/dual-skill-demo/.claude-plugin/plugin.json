@@ -1,0 +1,17 @@
+{
+  "name": "dual-skill-demo",
+  "displayName": "Dual Skill Demo",
+  "version": "0.1.0",
+  "description": "共用 hello-test 和 format-test，测试 Claude Code 与 Codex 远端插件安装",
+  "author": {
+    "name": "ischeng28"
+  },
+  "homepage": "https://github.com/ischeng28/dual-skill-market",
+  "repository": "https://github.com/ischeng28/dual-skill-market",
+  "keywords": [
+    "demo",
+    "skills",
+    "codex",
+    "claude-code"
+  ]
+}

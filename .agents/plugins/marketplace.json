@@ -1,0 +1,20 @@
+{
+  "name": "dual-skill-market",
+  "interface": {
+    "displayName": "ischeng28 Dual Skill Market"
+  },
+  "plugins": [
+    {
+      "name": "dual-skill-demo",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dual-skill-demo"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

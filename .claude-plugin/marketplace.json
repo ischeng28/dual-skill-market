@@ -1,0 +1,15 @@
+{
+  "name": "dual-skill-market",
+  "description": "ischeng28 的跨平台测试插件市场：Claude Code 与 Codex 共用两个 Skill。",
+  "owner": {
+    "name": "ischeng28"
+  },
+  "plugins": [
+    {
+      "name": "dual-skill-demo",
+      "source": "./plugins/dual-skill-demo",
+      "description": "包含 hello-test 和 format-test 两个指令型测试 Skill",
+      "version": "0.1.0"
+    }
+  ]
+}

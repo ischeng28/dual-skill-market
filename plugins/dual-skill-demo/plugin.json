@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dual-skill-demo",
+  "version": "0.1.0",
+  "description": "提供两个无需依赖的测试技能，验证 Claude Code 与 Codex 的插件安装与调用。",
+  "author": {
+    "name": "ischeng28"
+  },
+  "homepage": "https://github.com/ischeng28/dual-skill-market",
+  "repository": "https://github.com/ischeng28/dual-skill-market"
+}

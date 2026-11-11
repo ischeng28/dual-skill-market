@@ -1,0 +1,4 @@
+# 仅当本仓库作为受信任的 Codex 项目被打开时生效。
+# 从 GitHub 添加市场后，仍需在支持的客户端中安装插件。
+[plugins."dual-skill-demo@dual-skill-market"]
+enabled = true

@@ -1,0 +1,6 @@
+{
+  "name": "dual-skill-demo",
+  "version": "0.1.0",
+  "description": "Two simple test skills shared with Claude Code; maintained at github.com/ischeng28/dual-skill-market.",
+  "skills": "./skills/"
+}

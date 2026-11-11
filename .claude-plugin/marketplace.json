@@ -9,7 +9,7 @@
       "name": "dual-skill-demo",
       "source": "./plugins/dual-skill-demo",
       "description": "包含 hello-test 和 format-test 两个指令型测试 Skill",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }

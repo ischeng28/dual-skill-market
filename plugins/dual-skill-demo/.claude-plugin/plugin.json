@@ -1,7 +1,7 @@
 {
   "name": "dual-skill-demo",
   "displayName": "Dual Skill Demo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "共用 hello-test 和 format-test，测试 Claude Code 与 Codex 远端插件安装",
   "author": {
     "name": "ischeng28"
